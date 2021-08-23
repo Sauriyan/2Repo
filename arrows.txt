@@ -1,8 +1,9 @@
 <<<<<<< HEAD
 One thousand burning arrows
 Fill the starlit skyo
-=======
 The ship glides gently on the waves
-As day turns into nighto
+As day turns into night
+=======
+
 >>>>>>> feature
 
